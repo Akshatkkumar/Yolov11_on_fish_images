@@ -1,0 +1,9 @@
+Experiment 2 is in the notebooks folder as the first ipynb file
+
+it is also in the google colab file linked below
+
+https://colab.research.google.com/drive/1fedmklzI-dq5H-BSvELnJxEcK5h3thkx?usp=sharing
+
+I also saved to GitHub, this link is below
+
+https://github.com/Akshatkkumar/Yolov11_on_fish_images/blob/main/notebooks/train-yolo11-object-detection-on-custom-dataset.ipynb
